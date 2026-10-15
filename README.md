@@ -1,4 +1,4 @@
-<h1 align="center">Lucas Gabriel Martins</h1>
+<h1 align="center">Lucas Gabriel de Carvalho Martins</h1>
 
 <p align="center">
   <strong>Software Developer | Software Engineering | Applied AI</strong>
