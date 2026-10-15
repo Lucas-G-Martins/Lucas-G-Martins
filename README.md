@@ -90,7 +90,7 @@ Experimentos e projetos envolvendo monitoramento, métricas, logs e observabilid
 ## Connect with me
 
 <p align="center">
-  <a href="www.linkedin.com/in/lucas-gabriel-de-carvalho-martins">
+  <a href="https://www.linkedin.com/in/lucas-gabriel-de-carvalho-martins">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
